@@ -1,0 +1,13 @@
+ProductID,Product Name,Category,Sub-Category
+PROD0001,Tablet - Technology,Technology,Tablet
+PROD0002,Printer - Technology,Technology,Printer
+PROD0003,Chair - Furniture,Furniture,Chair
+PROD0004,Cupboard - Furniture,Furniture,Cupboard
+PROD0005,Table - Furniture,Furniture,Table
+PROD0006,Envelope - Office Supplies,Office Supplies,Envelope
+PROD0007,Notebook - Office Supplies,Office Supplies,Notebook
+PROD0008,Laptop - Technology,Technology,Laptop
+PROD0009,Stapler - Office Supplies,Office Supplies,Stapler
+PROD0010,Mobile - Technology,Technology,Mobile
+PROD0011,Pen - Office Supplies,Office Supplies,Pen
+PROD0012,Sofa - Furniture,Furniture,Sofa
